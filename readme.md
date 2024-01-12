@@ -8,8 +8,8 @@
 
 
 ## Collaborators (Spark)
-- `20120024` **Huỳnh Minh Tuấn** ([huynhtuan17ti](hhttps://github.com/huynhtuan17ti))
-- `20120316` **Nguyễn Hoàng Lâm** ([Hoanglam1134](https://github.com/Hoanglam1134))
+- `20120024` **Huỳnh Minh Tuấn** ([@huynhtuan17ti](hhttps://github.com/huynhtuan17ti))
+- `20120316` **Nguyễn Hoàng Lâm** ([@Hoanglam1134](https://github.com/Hoanglam1134))
 - `20120393` **Huỳnh Minh Tú** ([@electricgoal](https://github.com/ElectricGoal))
 
 ## Instructors
